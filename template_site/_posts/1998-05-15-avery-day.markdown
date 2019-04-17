@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Avery's Birthday"
+date:   1998-05-15 03:17:00 -0400
+categories: jekyll update
+---
+WOW on this very day in history I was born and that was a magical day i bet we alllllll agree!!! amazing amazing amazing so super super cool wowowowow 
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
